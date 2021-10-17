@@ -1,0 +1,16 @@
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\bin\Debug\net5.0\TestCourse.exe
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\bin\Debug\net5.0\TestCourse.deps.json
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\bin\Debug\net5.0\TestCourse.runtimeconfig.json
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\bin\Debug\net5.0\TestCourse.runtimeconfig.dev.json
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\bin\Debug\net5.0\TestCourse.dll
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\bin\Debug\net5.0\ref\TestCourse.dll
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\bin\Debug\net5.0\TestCourse.pdb
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\TestCourse.csproj.AssemblyReference.cache
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\TestCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\TestCourse.AssemblyInfoInputs.cache
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\TestCourse.AssemblyInfo.cs
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\TestCourse.csproj.CoreCompileInputs.cache
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\TestCourse.dll
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\ref\TestCourse.dll
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\TestCourse.pdb
+C:\Users\William Girardi\source\repos\TestCourse\TestCourse\obj\Debug\net5.0\TestCourse.genruntimeconfig.cache
